@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pierwszyprojekt-1cc49": {
+      "hosting": {
+        "TicTackToe": [
+          "pierwszyprojekt-1cc49"
+        ]
+      }
+    }
+  }
+}
